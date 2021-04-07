@@ -1,39 +1,94 @@
 {
-"Companies": [
+"OgretimElemanlari": [
 {
-"Heading": "Cloud NX",
-"Detail": "For cloud solution, waiting for you",
-"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image1.png"
+"adi": "Mehmet Akbaba",
+"sicil": 1
 },
 {
-"Heading": "Microsoft",
-"Detail": "Best solution for system programs",
-"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image2.png"
+"adi": "Umit Atila",
+"sicil": 2
 },
 {
-"Heading": "Oracle",
-"Detail": "Spatial database is supported now",
-"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image3.png"
+"adi": "Yasin Ortakci",
+"sicil": 3
 },
 {
-"Heading": "Google",
-"Detail": "Android is the best comprimise for mobile devices",
-"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png"
+"adi": "Oguz Findik",
+"sicil": 4
+}
+],
+"Dersler": [
+{
+"Kodu": "BLM200",
+"Adi": "Elektronik",
+"OgretmenSicil": 1,
+"Kredisi": 4
 },
 {
-"Heading": "Amazon",
-"Detail": "Have the largest cloud infrastructure",
-"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image5.jpg"
+"Kodu": "BLM100",
+"Adi": "Programlama",
+"OgretmenSicil": 2,
+"Kredisi": 6
 },
 {
-"Heading": "Intel",
-"Detail": "Microprocessor center of the word",
-"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image6.jpg"
+"Kodu": "BLM300",
+"Adi": "İsletim Sistemleri",
+"OgretmenSicil": 3,
+"Kredisi": 4
 },
 {
-"Heading": "IBM",
-"Detail": "The oldest IT company",
-"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image7.png"
+"Kodu": "BLM211",
+"Adi": "Logic",
+"OgretmenSicil": 1,
+"Kredisi": 4
+},
+{
+"Kodu": "BLM207",
+"Adi": "Veri Yapilari",
+"OgretmenSicil": 4,
+"Kredisi": 4
+},
+{
+"Kodu": "BLM101",
+"Adi": "Matematik",
+"OgretmenSicil": 3,
+"Kredisi": 5
+},
+{
+"Kodu": "BLM312",
+"Adi": "Formal Diller",
+"OgretmenSicil": 4,
+"Kredisi": 3
+},
+{
+"Kodu": "BLM410",
+"Adi": "Yapay Zeka",
+"OgretmenSicil": 2,
+"Kredisi": 3
+},
+{
+"Kodu": "BLM311",
+"Adi": "Mikroislemciler",
+"OgretmenSicil": 1,
+"Kredisi": 4
+},
+{
+"Kodu": "BLM408",
+"Adi": "Paralel Programlama",
+"OgretmenSicil": 4,
+"Kredisi": 3
+},
+{
+"Kodu": "BLM305",
+"Adi": "Sayısal Analiz",
+"OgretmenSicil": 3,
+"Kredisi": 4
+},
+{
+"Kodu": "BLM203",
+"Adi": "Veri Tabani",
+"OgretmenSicil": 2,
+"Kredisi": 5
 }
 ]
 }
