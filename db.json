@@ -1,12 +1,5 @@
 {
   "department": "computer enginering",
-  "ages": [
-    30,
-    35,
-    37,
-    45,
-    57
-  ],
   "teachers": [
     {
       "name": "Ali Yahya",
