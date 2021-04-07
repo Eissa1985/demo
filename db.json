@@ -34,5 +34,11 @@
     }
     ],
     "department": "computer enginering",
-    "ages": [30,35,37,45,57]  
+    "ages": [
+      30,
+      35,
+      37,
+      45,
+      57
+    ]  
     }
