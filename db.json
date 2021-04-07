@@ -1,7 +1,8 @@
 {
-  "name":"John",
-  "age":30,
-  "teachers": [
+  "school": {
+    "name":"John",
+    "age":30,
+    "teachers": [
     {
       "name": "Ali Yahya",
       "id": 1,
@@ -35,4 +36,5 @@
       "activty": true
     }
   ]
+}
 }
