@@ -1,38 +1,39 @@
 {
-"teachers": [
+"Companies": [
 {
-"name": "Ali Yahya",
-"id": 1,
-"salary": 2514.25
+"Heading": "Cloud NX",
+"Detail": "For cloud solution, waiting for you",
+"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image1.png"
 },
 {
-"name": "Mehmet Khalid",
-"id": 2,
-"salary": 5514.75
+"Heading": "Microsoft",
+"Detail": "Best solution for system programs",
+"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image2.png"
 },
 {
-"name": "Mona Said",
-"id": 3,
-"salary": 6514.25
+"Heading": "Oracle",
+"Detail": "Spatial database is supported now",
+"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image3.png"
+},
+{
+"Heading": "Google",
+"Detail": "Android is the best comprimise for mobile devices",
+"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png"
+},
+{
+"Heading": "Amazon",
+"Detail": "Have the largest cloud infrastructure",
+"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image5.jpg"
+},
+{
+"Heading": "Intel",
+"Detail": "Microprocessor center of the word",
+"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image6.jpg"
+},
+{
+"Heading": "IBM",
+"Detail": "The oldest IT company",
+"ImageURL": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image7.png"
 }
-],
-"courses": [
-{
-"course": "computer programming",
-"cried": 3,
-"activty": true
-},
-{
-"course": "AI",
-"cried": 3,
-"activty": false
-},
-{
-"course": "algorithms",
-"cried": 4,
-"activty": true
-}
-],
-"department": "computer enginering",
-"ages": [30,35,37,45,57]  
+]
 }
