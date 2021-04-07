@@ -2,17 +2,17 @@
 "teachers": [
 {
 "name": "Ali Yahya",
-"id": "1",
+"id": 1,
 "salary": 2514.25
 },
 {
 "name": "Mehmet Khalid",
-"id": "2",
+"id": 2,
 "salary": 5514.75
 },
 {
 "name": "Mona Said",
-"id": "3",
+"id": 3,
 "salary": 6514.25
 }
 ],
@@ -34,6 +34,5 @@
 }
 ],
 "department": "computer enginering",
-"ages": [30,35,37,45,57]
-  
+"ages": [30,35,37,45,57]  
 }
