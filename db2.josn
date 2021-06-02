@@ -1,0 +1,14 @@
+{
+    "department_name": "computer enginering",
+    "teachers": [
+      {"name": "Ali Yahya", "id": 1,"salary": 2514.25},
+      {"name": "Mehmet Khalid","id": 2,"salary": 5514.75},
+      {"name": "Mona Said","id": 3,"salary": 6514.25 }
+  ],
+    "courses": [
+    {"course": "computer programming","credit": 3,"active": true },
+    {"course": "AI", "credit": 3, "active": false },
+    {"course": "algorithms","credit": 4,"active": true }
+  ],
+    "teachersages": [30,35,37,45,57]    
+}
